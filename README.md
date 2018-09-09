@@ -7,7 +7,7 @@ A RGB-Color Guessing game having two ‘hard and easy’ mode with varying diffi
   
   •	Different buttons with hovering and press effect for easy and nice-looking GUI.
   
-  •	Random generation of colors ranging RGB(0-365, 0-365, 0-365).
+  •	Random generation of colors ranging RGB(0-255, 0-255, 0-255).
   
   •	Play Again button, showing after winning or losing.
   
